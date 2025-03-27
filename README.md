@@ -1,7 +1,10 @@
-## Hola¡ soy Bryam 👋
+## Hola! soy Bryam 👋
 
 
 **bryam406/bryam406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://via.placeholder.com/400x200?text=Imagen+1" width="400">](#)
+[<img src="https://via.placeholder.com/400x200?text=Imagen+2" width="400">](#)
+[<img src="https://via.placeholder.com/400x200?text=Imagen+3" width="400">](#)
 
 Here are some ideas to get you started:
 
