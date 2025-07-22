@@ -8,3 +8,5 @@ Desarrollador Full Stack con más de 2 años de experiencia en el sector, enfoca
 
 Amplios conocimientos en tecnologías web, aplicaciones de escritorio y móviles, además de automatizaciones personalizadas orientadas a mejorar el rendimiento laboral y el desarrollo de extensiones.
 
+## Tecnologias y lenguajes
+
