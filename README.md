@@ -1,7 +1,6 @@
 ## Hola! soy Bryam 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=5000&pause=1500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automatizaciones+y+desarrollo+de+soluciones)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=&duration=5000&pause=1500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automatizaciones+y+desarrollo+de+soluciones)
 
 Here are some ideas to get you started:
 
