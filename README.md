@@ -1,3 +1,6 @@
+
+![ca9e1ae3-efd1-4046-bba1-59a7c5e370fc](https://github.com/user-attachments/assets/02f54403-933a-4445-a794-b43dae938afe)
+
 # Hola! soy Bryam 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=1500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automatizaciones+y+desarrollo+de+soluciones)
