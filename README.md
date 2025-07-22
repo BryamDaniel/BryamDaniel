@@ -1,7 +1,8 @@
 ## Hola! soy Bryam 👋
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola!+soy+Bryam+👋)
 
-Full Stack Developer.
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola!+soy+Bryam+👋;Desarrollador+Frontend)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full Stack Developer.)
 
 
 Here are some ideas to get you started:
