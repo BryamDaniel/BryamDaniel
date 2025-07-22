@@ -1,8 +1,6 @@
 ## Hola! soy Bryam 👋
 
-<div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzyzxrEJ1o4aXNbLL6-B3_MtG-QBa6VlKDWCtOeiSzayAwqMI3udg-JeijUsARsxckrjmM_Uhj_bU8l74-xQ9th2E98nVDkuoakq4VzpyFRioXVVxUSI0L14Zx9-57JI_dElCg/s1600/hidroavion+al+amanecer.jpg" width="400">
-</div>
+
 
 **bryam406/bryam406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
