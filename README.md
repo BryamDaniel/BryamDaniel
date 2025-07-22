@@ -8,13 +8,13 @@ Desarrollador Full Stack con más de 2 años de experiencia en el sector, enfoca
 
 Amplios conocimientos en tecnologías web, aplicaciones de escritorio y móviles, además de automatizaciones personalizadas orientadas a mejorar el rendimiento laboral y el desarrollo de extensiones.
 
-🧠 Lenguajes de Programación
+## 🧠 Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🧰 Tecnologías y Herramientas
+## 🧰 Tecnologías y Herramientas
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
