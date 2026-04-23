@@ -1,31 +1,78 @@
-# Hola! soy Bryam 👋 
+# Hola! soy Bryam 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=5000&pause=1500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;RPA+Specialist;Cloud+%26+Firebase+Expert;Workflow+Optimizer)
 
-### 🚀 Sobre mí
-Desarrollador **Full Stack** con más de 2 años de experiencia transformando ideas en código. Mi enfoque principal es la **automatización de procesos (RPA)** y la creación de arquitecturas web robustas. Me apasiona la eficiencia: si algo se hace dos veces, ¡debería estar automatizado!
+<p align="center">
+  <img src="https://img.shields.io/badge/-Zelenza-01A186?style=flat-square&logo=zelenza&logoColor=white" alt="Empresa actual">
+  <img src="https://img.shields.io/badge/-Desarrollador_Multiplataforma-blue?style=flat-square&logo=github&logoColor=white" alt="Formación">
+</p>
 
-- 🔭 Actualmente trabajando en: **Zelenza** (Desarrollo Full-Stack y RPA).
-- ⚡ Especialidad: Extensiones de Chrome a medida y bots con Python.
+## 🚀 Sobre mí
+
+Desarrollador **Full Stack** apasionado por convertir ideas en código eficiente y escalable. Mi enfoque principal es la **automatización de procesos (RPA)**, la creación de arquitecturas web robustas y soluciones Cloud. Me especializo en optimizar flujos de trabajo: si algo se hace dos veces, ¡debería estar automatizado!
+
+- 🔭 Actualmente trabajando en: **Zelenza** (Full-Stack, RPA & Cloud Migration).
+- ☁️ Especialidad: Migración de ecosistemas a **Firebase** y desarrollo de herramientas low-code con **Appsmith**.
+- ⚡ Experto en: Extensiones de Chrome a medida y automatizaciones con Python.
 - 🎓 CFGS en Desarrollo de Aplicaciones Multiplataforma.
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-#### 🧠 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<p align="center">
+  <a href="https://java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" class="stack-badge">
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" class="stack-badge">
+  </a>
+  <br><br>
 
-#### 🌐 Frameworks y Herramientas
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" class="stack-badge">
+  </a>
+  <br><br>
+
+  <a href="https://www.appsmith.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Appsmith-FF6D2D?style=for-the-badge&logo=appsmith&logoColor=white" alt="Appsmith" class="stack-badge">
+  </a>
+  </p>
 
 ---
 
-### 💼 Experiencia Destacada (Zelenza)
-* **Full-Stack:** Creación de APIs seguras (JWT/AES-256) con Node.js y PHP.
-* **RPA & Chrome Extensions:** Desarrollo de bots para optimización de flujos laborales reduciendo tiempos de ejecución.
-* **Desktop:** Aplicaciones interactivas en .NET y Python.
+## 💼 Experiencia y Proyectos Clave (Zelenza)
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-icon">☁️</div>
+    <div class="timeline-content">
+      <h3>Cloud Migration & Firebase</h3>
+      <p>Liderazgo en la migración integral de proyectos hacia **Firebase**, gestionando Realtime Database, Firestore, DNS, hosting y autenticación.</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-icon">🛠️</div>
+    <div class="timeline-content">
+      <h3>Internal Tools (Appsmith)</h3>
+      <p>Desarrollo de interfaces complejas y dashboards avanzados utilizando **Appsmith** y lógica **JavaScript** para la gestión de datos.</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-icon">🔌</div>
+    <div class="timeline-content">
+      <h3>API Design</h3>
+      <p>Construcción y optimización de Endpoints escalables y APIs seguras (JWT/AES-256) con Node.js y PHP.</p>
+    </div>
+  </div>
+  </div>
 
 ---
 
-### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_A_LINKEDIN)
+## 📫 Contacto
+
+<p align="center">
+  <a href="TU_LINK_A_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
