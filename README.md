@@ -20,12 +20,6 @@ Desarrollador **Full Stack** con más de 2 años de experiencia transformando id
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Resumen de Bryam](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical)
-
----
-
 ### 💼 Experiencia Destacada (Zelenza)
 * **Full-Stack:** Creación de APIs seguras (JWT/AES-256) con Node.js y PHP.
 * **RPA & Chrome Extensions:** Desarrollo de bots para optimización de flujos laborales reduciendo tiempos de ejecución.
